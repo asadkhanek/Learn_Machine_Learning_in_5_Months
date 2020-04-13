@@ -1,11 +1,3 @@
-# Books-and-Online-Courses
-
-
-
-
-
-
-
 # Online Curriculum (Free and Opensource)
 
 
